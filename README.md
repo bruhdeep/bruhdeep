@@ -1,16 +1,19 @@
-### Hi there 👋
+<center>
+<p>???????????????????????????</p>
 
-<!--
-**bruhdeep/bruhdeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img src="https://i.ibb.co/WsMbxFV/naughty-darling-wallpaper-2560x1080-14.jpg" border="0"> </p>
 
-Here are some ideas to get you started:
+<p>???????????????????????????</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>?????????????????
+he/him | 19 | Nepal
+Im retarded a.f
+?????????????????</p>
+
+<img src="https://i.ibb.co/7C6bCCL/Screenshot-2022-11-17-093913.png" border="0">
+
+<p>--.·.· <a href = "https://open.spotify.com/user/31qwrbsWTAG6kdWNWiDg8uTu168u72imMB?si=6de7d0afdda74edc">spotify </a>?<a href = "https://steamcommunity.com/id/succamadica/">steam </a>?<a href = "https://discordapp.com/users/413679054777090049">discord </a> ·.·.--</p>
+
+<p>? ----- ?<em> .·:·.? ? ?.·:·.</em>? ---- ?</p>
+
+<p>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qwrbsWTAG6kdWNWiDg8uTu168u72imMB&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=fcfcfc&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)</p>

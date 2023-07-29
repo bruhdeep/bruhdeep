@@ -4,10 +4,11 @@
   </div>
   <div class="about">
     <img src="https://lanyard.kyrie25.me/api/413679054777090049?waveColor=7F00FF&waveSpotifyColor=7F00FF&gradient=7E37F9-7F00FF-7F00FF&imgStyle=circle" align = "right">
-    <p align="center">𝓢𝓸𝓬𝓲𝓪𝓵𝓼</p>
+    <p align="center">𝓢𝓸𝓬𝓲𝓪𝓵𝓼<br><br>
     <a href="https://discordapp.com/users/413679054777090049"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://steamcommunity.com/id/succamadica/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
     <a href="https://twitter.com/bruhdeepo"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/pradip02/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    </p>
   </div>
 </body>

@@ -1,1 +1,1 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:413679054777090049)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/413679054777090049?)](https://discord.com/users/413679054777090049)

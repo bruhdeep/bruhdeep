@@ -1,9 +1,9 @@
 <body>
   <div align = "center">
-    <a href="https://discordid.netlify.app/?id=413679054777090049"><img src="https://i.ibb.co/WsMbxFV/naughty-darling-wallpaper-2560x1080-14.jpg" border="0" width="1000"><a>
+    <p><img src="https://i.ibb.co/WsMbxFV/naughty-darling-wallpaper-2560x1080-14.jpg" border="0" width="1000"></p>
   </div>
   <div class="about">
-    <img src="https://lanyard.kyrie25.me/api/413679054777090049?waveColor=af5ff7&waveSpotifyColor=af5ff7&gradient=af5ff7-c58afa-fafafa" align = "right">
+    <a href= "https://discordid.netlify.app/?id=413679054777090049"><img src="https://lanyard.kyrie25.me/api/413679054777090049?waveColor=af5ff7&waveSpotifyColor=af5ff7&gradient=af5ff7-c58afa-fafafa" align = "right"></a>
     <p align="center">⤎ ───── 𝓢𝓸𝓬𝓲𝓪𝓵𝓼 ───── ⤏<br><br>
     <a href="https://discordapp.com/users/413679054777090049"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://steamcommunity.com/id/succamadica/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>

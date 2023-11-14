@@ -13,14 +13,3 @@
     </p>
   </div>
 </body>
-
-<script>
-  function updateLanyard(){
-    const imageElement = document.getElementById("lanyard");
-    const imageUrl = imageElement.src;
-
-    imageElement.src = imageUrl + "?timestamp=" + new Date().getTime();
-  }
-
-  setInterval(reloadImage, 5);
-</script>

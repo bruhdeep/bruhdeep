@@ -1,6 +1,6 @@
 <body>
   <div align = "center">
-    <p><img src="https://i.ibb.co/WsMbxFV/naughty-darling-wallpaper-2560x1080-14.jpg" border="0" width="1000"></p>
+    <p><img id="lanyard" src="https://i.ibb.co/WsMbxFV/naughty-darling-wallpaper-2560x1080-14.jpg" border="0" width="1000"></p>
   </div>
   <div class="about">
     <a href= "https://discordid.netlify.app/?id=413679054777090049"><img src="https://lanyard.kyrie25.me/api/413679054777090049?waveColor=af5ff7&waveSpotifyColor=af5ff7&gradient=af5ff7-c58afa-fafafa" align = "right"></a>
@@ -13,3 +13,14 @@
     </p>
   </div>
 </body>
+
+<script>
+  function updateLanyard(){
+    const imageElement = document.getElementById("lanyard");
+    const imageUrl = imageElement.src;
+
+    imageElement.src = imageUrl + "?timestamp=" + new Date().getTime();
+  }
+
+  setInterval(reloadImage, 5);
+</script>
